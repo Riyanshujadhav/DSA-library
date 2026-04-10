@@ -1,0 +1,21 @@
+// 1111111
+// 1111122
+// 1111333
+// 1114444
+// 1155555
+// 1666666
+// 7777777
+public class Pattern_28_ {
+    public static void main(String[] args) {
+        int n=7;
+        for (int i = 1; i <= n; i++) {
+            for(int j = n-i;j>=1;j--){
+                System.out.print(1);
+            }
+            for (int j=1;j<=i;j++) {
+                System.out.print(i );
+            }
+            System.out.println();
+        } 
+    }
+}
