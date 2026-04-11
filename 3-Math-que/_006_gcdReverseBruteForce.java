@@ -1,7 +1,4 @@
-
 import java.util.Scanner;
-
-
 
 public class _006_gcdReverseBruteForce {
     public static void main(String[] args) {
