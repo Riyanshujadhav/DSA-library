@@ -1,7 +1,4 @@
-
 import java.util.Scanner;
-
-
  class gcd{
     int findgcd(int a,int b){
         while(b!=0){
@@ -10,8 +7,6 @@ import java.util.Scanner;
             b=t;
         }return a;
     }
-
-
 }
 public class _008_euclidean_gdcFn {
     public static void main(String[] args) {
