@@ -1,8 +1,5 @@
-
 import java.math.BigInteger;
 import java.util.Scanner;
-
-
 
 public class _009_gcd_Stl {
     public static void main(String[] args) {
