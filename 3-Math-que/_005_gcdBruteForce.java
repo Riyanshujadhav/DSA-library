@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class _005_gcdBruteForce{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
