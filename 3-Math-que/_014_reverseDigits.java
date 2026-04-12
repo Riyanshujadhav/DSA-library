@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 class ReversNo{
-    
     int rev(int n){
         int reverse=0;
         while(n!=0){
