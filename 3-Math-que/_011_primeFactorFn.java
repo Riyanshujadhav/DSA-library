@@ -1,8 +1,6 @@
 
 import java.util.Scanner;
-
 class Prime_Factor{
-
     public boolean factor(int n){
         int i;
         for (i=2; i<n; i++) {
@@ -12,8 +10,6 @@ class Prime_Factor{
         }return true;
     }
 }
-
-
 
 public class _011_primeFactorFn {
     public static void main(String[] args) {
