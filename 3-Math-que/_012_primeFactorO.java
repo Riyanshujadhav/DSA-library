@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 public class _012_primeFactorO {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
