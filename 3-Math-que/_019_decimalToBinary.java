@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class _019_decimalToBinary {
 
     public static int rev(int n){
@@ -11,7 +10,6 @@ public class _019_decimalToBinary {
         }
         return rev;
     }
-
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
