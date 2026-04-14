@@ -1,6 +1,5 @@
 //Take N (number in binary format). Write a function that converts it to decimal format and Print the value returned.
 import java.util.Scanner;
-
 public class _028_04que {
    public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
