@@ -2,6 +2,7 @@
 //3-Digit Example 153: 1^{3}+5^{3}+3^{3}=1+125+27=153
 //4-Digit Example 1634: 1^{4}+6^{4}+3^{4}+4^{4}=1+1296+81+256=1634
 import java.util.Scanner;
+
 public class _023_armStrongNo {
     public static int digit(int n){
         int digits=0;
