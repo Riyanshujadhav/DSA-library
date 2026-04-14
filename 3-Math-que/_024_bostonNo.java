@@ -1,6 +1,7 @@
 // they are composite no (no who has more than 2 factor)
 // sum of whosr digits is equal to the sum of digits of prime factor
 import java.util.Scanner;
+
 public class _024_bostonNo {
     public static int digitsum(int n){
         int digits=0;
