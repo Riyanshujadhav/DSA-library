@@ -1,6 +1,5 @@
 //Take N as input, Calculate it's reverse also Print the reverse.
 import java.util.Scanner;
-
 public class _027_03que {
      public static void main(String args[]) {
         Scanner sc=new Scanner(System.in);
