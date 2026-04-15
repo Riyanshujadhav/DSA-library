@@ -1,9 +1,7 @@
 // Take the following as input.
-
 // A number (N1)
 // A number (N2)
 // Write a function which prints all armstrong numbers between N1 and N2 (inclusive).
-
 // 371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3
 import java.util.Scanner;
 public class _038_14que {
