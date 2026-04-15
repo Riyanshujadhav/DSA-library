@@ -1,4 +1,5 @@
 //Given a integer as a input and replace all the '0' with '5' in the integer
+
 import java.util.Scanner;
 public class _036_12que {
     public static long replaceZero(long n) {
