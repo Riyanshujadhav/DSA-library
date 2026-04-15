@@ -20,9 +20,7 @@
 // There are many numbers form after inverting the digit. 
 // For minimum number, check if inverting digit is less than or greater than the original digit.
 //  If it is less, then invert it otherwise leave it.
-
 import java.util.Scanner;
-
 public class _035_11que {
     public static long rev(long n){
         long rev = 0;
