@@ -5,7 +5,6 @@
 //  Write a program to check whether a given integer is a Boston number.
 
 import java.util.Scanner;
-
 public class _040_16que {
     public static int digitSum(int n) {
         int sum = 0;

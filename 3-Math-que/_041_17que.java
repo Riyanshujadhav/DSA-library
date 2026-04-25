@@ -33,6 +33,7 @@
 // which is allowed because it doesn't exceed N). Then Aayush tries to shop for 5 
 // smartphones but he can't because 1 + 3 + 5 = 9 which is greater than M. 
 // Aayush loses and Harshit is the winner.
+
 import java.util.*;
 public class _041_17que {
     public static void main(String[] args) {

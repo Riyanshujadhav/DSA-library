@@ -24,7 +24,6 @@
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class _042_18que {
     public static ArrayList<Integer>convert(int n){
 		ArrayList<Integer> num=new ArrayList<>();
