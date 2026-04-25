@@ -2,6 +2,7 @@
 // However, she can only purchase one kind of item. 
 // She goes to a shop which has ‘n’ types items with prices A0,A1,A2,…,An-1.
 // The shopkeeper claims that he has at least ‘k’ items she can choose from. Help her find out if the shopkeeper is correct or not.
+
 import java.util.Scanner;
 public class _013_08_Assigment4_ {
     public static void main(String[] args) {

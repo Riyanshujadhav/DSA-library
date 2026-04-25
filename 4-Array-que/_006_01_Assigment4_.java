@@ -4,7 +4,6 @@
 // output =[0, 3, 1, 4, 2]
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class _006_01_Assigment4_ {
         public static void main(String args[]) {
         Scanner sc= new Scanner(System.in);
@@ -22,4 +21,28 @@ public class _006_01_Assigment4_ {
             System.out.print(m + " ");
         }
     }
+    // Using recursion
+    // public static void inverse(int[] arr, int[] ans, int idx) {
+    //     // Base case
+    //     if (idx == arr.length) {
+    //         return;
+    //     }
+    //     // Place index at the value's position
+    //     ans[arr[idx]] = idx;
+    //     // Recursive call
+    //     inverse(arr, ans, idx + 1);
+    // }
+    // public static void main(String[] args) {
+    //     Scanner sc = new Scanner(System.in);
+    //     int n = sc.nextInt();
+    //     int[] arr = new int[n];
+    //     int[] ans = new int[n];
+    //     for (int i = 0; i < n; i++) {
+    //         arr[i] = sc.nextInt();
+    //     }
+    //     inverse(arr, ans, 0);
+    //     for (int i = 0; i < n; i++) {
+    //         System.out.print(ans[i] + " ");
+    //     }
+    // }
 }

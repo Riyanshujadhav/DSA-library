@@ -2,7 +2,6 @@
 // Write a function which returns the maximum value in the array. Print the value returned.
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class _010_05_Assigment4_ {
     public static void main(String args[]) {
 		Scanner sc=new Scanner(System.in);

@@ -6,7 +6,9 @@
 // A ticket for an unlimited number of rides on some rickshaw or on some cab. It costs c2 ruppees;
 // A ticket for an unlimited number of rides on all rickshaws or all cabs. It costs c3 ruppees;
 // A ticket for an unlimited number of rides on all rickshaws and cabs. It costs c4 ruppees.
-// Ramu knows for sure the number of rides he is going to make and the transport he is going to use. He asked you for help to find the minimum sum of ruppees he will have to spend on the tickets.
+// Ramu knows for sure the number of rides he is going to make and the transport he is going to use.
+// He asked you for help to find the minimum sum of ruppees he will have to spend on the tickets.
+
 import java.util.Scanner;
 public class _012_07_Assigment4_ {
     public static void main(String[] args) {

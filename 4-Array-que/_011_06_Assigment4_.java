@@ -11,7 +11,6 @@
 // 40 40             10 2 6 8 4 
 // 80  (ans 40,40)   10(ans 4,6)
 
-
 import java.util.Arrays;
 import java.util.Scanner;
 public class _011_06_Assigment4_ {

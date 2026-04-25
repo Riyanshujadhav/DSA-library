@@ -2,7 +2,6 @@
 // Take as input “target”, a number. Write a function which prints all pairs of numbers which sum to target
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class _009_04_Assigment4_ {
     public static void sum(int []arr,int n,int target){
 		Arrays.sort(arr);

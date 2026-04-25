@@ -1,6 +1,7 @@
 // Take as input N, the size of an array. Take N more inputs and store that in an array.
 // Take another number’s input as M. Write a function which returns the index on which M is found 
 // in an array, in case M is not found -1 is returned. Print the value returned.
+
 import java.util.Scanner;
 public class _008_03_Assigment4_ {
     public static int findIndex(int []arr,int m){
