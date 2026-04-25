@@ -1,3 +1,4 @@
+
 public class _001_1_array {
     public static void main(String[] args) {
         // array decleration -->

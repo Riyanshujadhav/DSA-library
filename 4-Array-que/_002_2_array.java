@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 public class _002_2_array {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
